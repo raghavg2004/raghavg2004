@@ -4,12 +4,20 @@ Hi there! 👋 I'm **Raghav Gupta**, a passionate Computer Science Engineer from
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Raghav+Gupta;Android+Developer;Software+Engineer" alt="Typing SVG" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🔧 I’m proficient in **C++, Java, & Kotlin** and I'm always eager to apply my knowledge in real-world projects.
 - 💡 I’m currently working on an Android app called **Pay Secure**, which helps users efficiently track income and expenses with features like **biometric authentication** and **financial analysis**.
 - 🌱 Recently completed an **NPTEL certification** in **Database Management Systems**.
- 
+- 🎓 I’m also deep into ERP studies, learning about SAP, Oracle, and other big players in the market.
+- 🔭 Working on side projects like **Sorting Visualizer**—a web app showcasing sorting algorithms.
+  
 ---
 
 ## 🔨 Projects
@@ -30,25 +38,31 @@ A Kotlin-based app offering Computer Science Engineering books and notes in PDF 
 ## 💻 Tech Stack
 
 **Languages:**
-- C++ | Java | Kotlin | SQL
+- C++ | Java | Kotlin | Dart | Python | SQL
 
 **Frontend:**
-- HTML | CSS | JavaScript | Bootstrap | Tailwind
+- HTML | CSS | JavaScript | Bootstrap
 
 **Mobile Development:**
-- Kotlin | Java
+- Android (Kotlin, Java) | Flutter
 
 **Backend:**
- Firebase | Room DB
+- Node.js | Firebase | Room DB
 
 **Tools & Technologies:**
-- Git | Visual Studio Code | Android Studio
+- Git | Figma | Visual Studio Code | Android Studio | Linux
 
 ---
 
 ## 🏅 Certifications
 
 - **NPTEL: Database Management Systems** – Jul-Sep 2024
+
+---
+
+## 📊 GitHub Stats
+
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavg2004&show_icons=true&theme=radical)
 
 ---
 
