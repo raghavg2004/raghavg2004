@@ -64,7 +64,7 @@ A Kotlin-based app offering Computer Science Engineering books and notes in PDF 
 
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavg2004&show_icons=true&theme=radical)
 
-![Total Repositories](https://img.shields.io/github/repo-count/raghavg2004?color=blue&label=Total%20Repositories&logo=github&style=for-the-badge)
+- **Total Public Repositories**:  [![Total Repositories](https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge&logo=github)](https://github.com/raghavg2004?tab=repositories)
 
 ---
 
