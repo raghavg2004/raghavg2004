@@ -54,6 +54,10 @@ A Kotlin-based app offering Computer Science Engineering books and notes in PDF 
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkachouhan25&show_icons=true&locale=en&layout=compact" alt="anushkachouhan25" /></p>
+
+---
+
 ## 🏅 Certifications
 
 - **NPTEL: Database Management Systems** – Jul-Sep 2024
