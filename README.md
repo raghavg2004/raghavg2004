@@ -74,13 +74,13 @@ A Kotlin-based app offering Computer Science Engineering books and notes in PDF 
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavg2004&show_icons=true&theme=radical)
 
 ---
-
+-->
 ## 📫 How to Reach Me
 
 - Portfolio: [raghavg.vercel.app](https://raghavg.vercel.app/)
