@@ -38,7 +38,7 @@ A Kotlin-based app offering Computer Science Engineering books and notes in PDF 
 ## 💻 Tech Stack
 
 **Languages:**
-- C++ | Java | Kotlin | Dart | Python | SQL
+- C++ | Java | Kotlin | Dart | SQL
 
 **Frontend:**
 - HTML | CSS | JavaScript | Bootstrap
@@ -47,14 +47,12 @@ A Kotlin-based app offering Computer Science Engineering books and notes in PDF 
 - Android (Kotlin, Java) | Flutter
 
 **Backend:**
-- Node.js | Firebase | Room DB
+- SQL | Firebase | Room DB
 
 **Tools & Technologies:**
-- Git | Figma | Visual Studio Code | Android Studio | Linux
+- Git | Visual Studio Code | Android Studio | Linux
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkachouhan25&show_icons=true&locale=en&layout=compact" alt="anushkachouhan25" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavg2004&show_icons=true&locale=en&layout=compact" alt="raghavg2004" /></p>
 
 ---
 
