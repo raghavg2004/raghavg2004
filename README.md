@@ -1,5 +1,3 @@
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=raghavg2004&label=Profile%20views&color=0e75b6&style=flat" alt="raghavg2004"/></span>
-
 <h1 align="center">Hi👋, I'm Raghav Gupta</h1>
 
 Hi there! 👋 I'm **Raghav Gupta**, a passionate Computer Science Engineer from Chandigarh Group of Colleges, Landran. I specialize in **Android development** and have a keen interest in **Software Engineering**, **Operating Systems**, and **Frontend Development**. 
@@ -7,7 +5,7 @@ Hi there! 👋 I'm **Raghav Gupta**, a passionate Computer Science Engineer from
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Raghav+Gupta;Android+Developer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;Software+Engineer;Learning+enthusiast!" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
