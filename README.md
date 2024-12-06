@@ -32,23 +32,15 @@ A web application that visually demonstrates sorting algorithms with interactive
 A Kotlin-based app offering Computer Science Engineering books and notes in PDF format for all 8 semesters.
 
 ---
-
 ## 💻 Tech Stack
 
-**Languages:**
-- C++ | Java | Kotlin | Dart | SQL
-
-**Frontend:**
-- HTML | CSS | JavaScript | Bootstrap
-
-**Mobile Development:**
-- Android (Kotlin, Java) | Flutter
-
-**Backend:**
-- SQL | Firebase | Room DB
-
-**Tools & Technologies:**
-- Git | Visual Studio Code | Android Studio | Linux
+| **Category**            | **Technologies**                                 |
+|--------------------------|-------------------------------------------------|
+| 🖥️ **Languages**        | C++ · Java · Kotlin · Dart · SQL                |
+| 🎨 **Frontend**         | HTML · CSS · JavaScript · Bootstrap             |
+| 📱 **Mobile Development**| Android (Kotlin, Java) · Flutter                |
+| 🗄️ **Backend**          | SQL · Firebase · Room DB                        |
+| 🛠️ **Tools & Technologies** | Git · Visual Studio Code · Android Studio · Linux |
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavg2004&show_icons=true&locale=en&layout=compact" alt="raghavg2004" /></p>
 
