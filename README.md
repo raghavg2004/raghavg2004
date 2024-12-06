@@ -5,7 +5,7 @@ A passionate Computer Science Engineer from Chandigarh Group of Colleges, Landra
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=300&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;Software+Engineer;Learning+enthusiast!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=200&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;Software+Engineer;Learning+Enthusiast!" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
