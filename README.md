@@ -89,3 +89,6 @@ When I'm not coding, you'll find me reading, writing, gaming, or trekking in the
 ---
 
 Thanks for visiting! Feel free to check out my repositories and leave a star ⭐ if you find something helpful.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavg2004&theme=tokyonight)
