@@ -42,7 +42,7 @@ A Kotlin-based app offering Computer Science Engineering books and notes in PDF 
 | 🗄️ **Backend**          | SQL · Firebase · Room DB                        |
 | 🛠️ **Tools & Technologies** | Git · Visual Studio Code · Android Studio · Linux |
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavg2004&show_icons=true&locale=en&layout=compact" alt="raghavg2004" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavg2004&theme=tokyonight" alt="raghavg2004" /></p>
 
 ---
 
@@ -89,6 +89,3 @@ When I'm not coding, you'll find me reading, writing, gaming, or trekking in the
 ---
 
 Thanks for visiting! Feel free to check out my repositories and leave a star ⭐ if you find something helpful.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavg2004&theme=tokyonight)
