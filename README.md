@@ -10,7 +10,7 @@ A passionate Computer Science Engineer from Chandigarh Group of Colleges, Landra
 
 ## 🚀 About Me
 
-- 🔧 I’m proficient in **C++, Java, & Kotlin** and I'm always eager to apply my knowledge in real-world projects.
+- 🔧 I’m proficient in **C++ & Kotlin** and I'm always eager to apply my knowledge in real-world projects.
 - 💡 I’m currently working on an Android app called **Pay Secure**, which helps users efficiently track income and expenses with features like **biometric authentication** and **financial analysis**.
 - 🌱 Recently completed an **NPTEL certification** in **Database Management Systems**.
 - 🎓 I’m also deep into ERP studies, learning about SAP, Oracle, and other big players in the market.
